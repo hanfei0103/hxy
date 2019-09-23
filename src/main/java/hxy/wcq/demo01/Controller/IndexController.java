@@ -1,4 +1,4 @@
-package hxy.wcq.demo01.HelloController;
+package hxy.wcq.demo01.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
